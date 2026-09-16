@@ -5,21 +5,12 @@
 
 # Generated controller binaries and intermediate files
 /aql-df-1/bin/
-/aql-df-1-input/bin/
 build/
 object/
 *.o
 *.elf
 *.map
 full_source_dump.txt
-
-# FreeCAD backups (keep editable .FCStd documents)
-*.FCBak
-*.FCStd1
-*.FCStd2
-
-# Duplicate archive of the unpacked CAD files
-/cad/AQL1_BaseBody_V0_Visual_CAD_and_STL.zip
 
 # Local editor and operating-system files
 *~
